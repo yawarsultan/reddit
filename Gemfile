@@ -23,6 +23,8 @@ gem 'coffee-rails', '~> 4.2'
 gem 'devise'
 gem 'bootstrap-sass'
 gem 'acts_as_votable'
+gem 'simple_form'
+gem 'record_tag_helper'
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks
